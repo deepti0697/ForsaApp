@@ -1,0 +1,78 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.7.1)
+  - Alamofire (5.1.0)
+  - AlamofireImage (4.1.0):
+    - Alamofire (~> 5.1)
+  - Cache (6.0.0)
+  - Cosmos (21.0.0)
+  - FAPanels (2.0.1)
+  - Hue (5.0.0)
+  - Imaginary (5.0.0):
+    - Cache (~> 6.0.0)
+  - IQKeyboardManagerSwift (6.5.5)
+  - Kingfisher (5.13.4):
+    - Kingfisher/Core (= 5.13.4)
+  - Kingfisher/Core (5.13.4)
+  - Lightbox (2.5.0):
+    - Imaginary (~> 5.0.0)
+  - SVPinView (1.0.11)
+  - SVProgressHUD (2.2.5)
+  - SwiftyAttributes (5.1.1)
+  - SwiftyJSON (5.0.0)
+  - Toast (3.1.0)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - AlamofireImage
+  - Cosmos
+  - FAPanels
+  - Hue
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - Lightbox
+  - SVPinView
+  - SVProgressHUD
+  - SwiftyAttributes
+  - SwiftyJSON
+  - Toast (~> 3.1.0)
+
+SPEC REPOS:
+  trunk:
+    - ActionSheetPicker-3.0
+    - Alamofire
+    - AlamofireImage
+    - Cache
+    - Cosmos
+    - FAPanels
+    - Hue
+    - Imaginary
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - Lightbox
+    - SVPinView
+    - SVProgressHUD
+    - SwiftyAttributes
+    - SwiftyJSON
+    - Toast
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: 36da254b97a09ff89679ecb8b8510bd3e5bdc773
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  AlamofireImage: c4a2ba349885fb3064feb74d2e547bd42ce9be10
+  Cache: 4ca7e00363fca5455f26534e5607634c820ffc2d
+  Cosmos: 3dfb6e4ba48bd48b8c9aa2a77048ae11ed114f96
+  FAPanels: 050291ef601a1dc00fad888f83e74284cb86dd52
+  Hue: c129cb67be7d093a82bbbc30ce8a96757bf6f37a
+  Imaginary: cf5e3a7dd6ab1dcbd47ba8ce5edf2307c4e99eb3
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  Kingfisher: d2279a7abece3c7f25a80cd2b7f363ca5cf3f44c
+  Lightbox: cc3d5124f024fa8197fd23f913160db1c61a1852
+  SVPinView: 9b538d0ba68cdb092afe4f0f67ec84cbed079466
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyAttributes: e3e13891ddac3c62b3d7798d5c3969cea88e62bb
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
+
+PODFILE CHECKSUM: e1d113209089bac9252ce0cf5dd907424fd3f21c
+
+COCOAPODS: 1.9.1

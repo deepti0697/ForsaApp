@@ -1,0 +1,6 @@
+framework module Pods_FORSA {
+  umbrella header "Pods-FORSA-umbrella.h"
+
+  export *
+  module * { export * }
+}
